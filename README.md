@@ -35,7 +35,7 @@
  - File báo cáo: [Final Report]()
  - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS114.N21/blob/main/Final%20Project/CS114_Final_Project.pptx)
  - Minh hoạ bài toán:
-<img src = "https://github.com/VanKhaiii/CS114.N21/tree/main/Images">
+<img src = "https://github.com/VanKhaiii/CS114.N21/blob/main/Images/image.png">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
