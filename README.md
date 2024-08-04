@@ -33,9 +33,9 @@
  Phân tích cảm xúc dựa trên một số khía cạnh liên quan đến sản phẩm sẽ giúp cho khách hàng, doanh nghiệp có một cái nhìn tổng quát hơn về sản phẩm, từ đó đưa ra quyết định nhanh chóng.
 
  - File báo cáo: [Final Report]()
- - Slide báo cáo; [Final Slide]()
+ - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS114.N21/blob/main/Final%20Project/CS114_Final_Project.pptx)
  - Minh hoạ bài toán:
-<img src = "https://github.com/VanKhaiii/CS117.N21/blob/main/Images/Illustrations.png">
+<img src = "https://github.com/VanKhaiii/CS114.N21/tree/main/Images">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
